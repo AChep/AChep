@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Apps
+ - **Game of Fifteen** _with Flutter_ [try online demo](https://gh.artemchep.com/15puzzle) 
+ - **Game of 2048** _with Flutter_ [try online demo](https://gh.artemchep.com/2048) 
+
 <!--
 **AChep/AChep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
