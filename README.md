@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Games
+##### Games
  - **[Game of Fifteen](https://github.com/AChep/15puzzle)**; [try online](https://gh.artemchep.com/15puzzle) 
  - **[Game of 2048](https://github.com/AChep/2048)**; [try online](https://gh.artemchep.com/2048) 
 
-Apps
+##### Apps
  - **[Pocket Mode](https://github.com/AChep/PocketMode)**, an Android app that locks your phone when you hover the proximity sensor; [on Play Store](https://play.google.com/store/apps/details?id=com.artemchep.pocketmode) 
  - **[Literary Clock](https://github.com/AChep/literaryclock)**, an Android app that represents current time in a form of literature quotes; [on Play Store](https://play.google.com/store/apps/details?id=com.artemchep.literaryclock) 
  - **[Essence](https://github.com/AChep/essence)**, an Wear OS watchface that is truly circular; [on Play Store](https://play.google.com/store/apps/details?id=com.artemchep.essence) 
