@@ -15,6 +15,7 @@
  - **[bindin](https://github.com/AChep/bindin)**, a utility library for Android with Kotlin to help you to replace the `LiveData` with the `Flow` on the presentation layer;
  - **[config](https://github.com/AChep/config)**, a utility library for Android with Kotlin to help you to create and manage _simple settings_ of an application.
 
+you can check my [CV](https://github.com/AChep/cv-latex/releases) out, if you want ⚡
 
 <!--
 **AChep/AChep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
