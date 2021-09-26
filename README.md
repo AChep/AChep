@@ -7,6 +7,7 @@
 ##### Apps
  - **[Pocket Mode](https://github.com/AChep/PocketMode)**, an Android app that locks your phone when you hover the proximity sensor; [on Play Store](https://play.google.com/store/apps/details?id=com.artemchep.pocketmode) 
  - **[Literary Clock](https://github.com/AChep/literaryclock)**, an Android app that represents current time in a form of literature quotes; [on Play Store](https://play.google.com/store/apps/details?id=com.artemchep.literaryclock) 
+ - **[Material Watch](https://github.com/AChep/materialwatch)**, an Wear OS watchface inspired by the Material You; [on Play Store](https://play.google.com/store/apps/details?id=com.artemchep.mw) 
  - **[Essence](https://github.com/AChep/essence)**, an Wear OS watchface that is truly circular; [on Play Store](https://play.google.com/store/apps/details?id=com.artemchep.essence) 
  - **[Horlogo](https://github.com/AChep/horlogo)**, an Wear OS watchface that is nothing spectacular; [on Play Store](https://play.google.com/store/apps/details?id=com.artemchep.horlogo) 
  - ...I also have a bunch of other apps the are either not maintained anymore (e.g. [AcDisplay](https://github.com/AChep/AcDisplay)) or not worth mentioning. 
