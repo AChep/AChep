@@ -5,6 +5,7 @@
  - **[Game of 2048](https://github.com/AChep/2048)**; [try online](https://gh.artemchep.com/2048) 
 
 ##### Apps
+- **[Keyguard](https://github.com/AChep/keyguard-app)**, an alternative Bitwarden client focused on the user experience; [on Play Store](https://play.google.com/store/apps/details?id=com.artemchep.keyguard) 
  - **[Pocket Mode](https://github.com/AChep/PocketMode)**, an Android app that locks your phone when you hover the proximity sensor; [on Play Store](https://play.google.com/store/apps/details?id=com.artemchep.pocketmode) 
  - **[Literary Clock](https://github.com/AChep/literaryclock)**, an Android app that represents current time in a form of literature quotes; [on Play Store](https://play.google.com/store/apps/details?id=com.artemchep.literaryclock) 
  - **[Material Watch](https://github.com/AChep/materialwatch)**, an Wear OS watchface inspired by the Material You; [on Play Store](https://play.google.com/store/apps/details?id=com.artemchep.mw) 
